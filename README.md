@@ -40,5 +40,5 @@ $$
 
 
 $$
-\gamma = O(log \; n), \gamma = O(n \; log \; n), \gamma = O(n^2), ...
+\gamma = O(log \; n), \gamma = O(n log n), \gamma = O(n^2), ...
 $$
